@@ -1,0 +1,13 @@
+# Project place file
+/EchoChase.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+Packages/
+ServerPackages/
+sourcemap.json
+wally.lock
+
+*.mp4
